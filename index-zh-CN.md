@@ -1,55 +1,50 @@
 ---
 layout: page
 title: "Keep Android Open"
-lang: en
-permalink: /
-description: "Advocating for Android as a free, open platform for everyone to build apps on."
+lang: zh-CN
+permalink: /cn/
+description: "倡导将Android作为一个免费、开发的平台以供大家构建应用程序。"
 
 # localizable sections for the footer text
-contact_header: "Contact"
-contact_email: "Email"
-site_problems_header: "Problems"
-site_report_issues: "Report Site Issues"
-site_disclaimer: "**Disclaimer:** This website is a community-driven noncommercial undertaking. It is operated solely for informational and educational purposes."
-site_privacy: "**Privacy:** This site uses no cookies and performs no user tracking or logging."
-site_copyright: "**Copyright:** None. This work is marked"
+contact_header: "联系"
+contact_email: "电子邮件"
+site_problems_header: "问题"
+site_report_issues: "报告网站问题"
+site_disclaimer: "**免责声明:**本网站是一个由社区推动的非商业性项目。仅用于提供信息与教育目的。"
+site_privacy: "**隐私:**本站并不使用cookies，以及用户跟踪或记录"
+site_copyright: "**版权:** 无。本著作已标记"
 ---
 
-In August 2025, Google [announced](https://developer.android.com/developer-verification) that starting next year,
-it will no longer be possible to develop apps for the Android platform
-without first registering centrally with Google.
-This registration will involve:
+2025年八月，Google [宣布](https://developer.android.com/developer-verification)从明年开始，
+未先经过向Google集中注册，将不再能为Android平台开发应用程序。
+该注册将涉及：
 
-- Paying a fee to Google
+- 向Google支付费用
 {:.li-list .li-money}
-- Agreeing to Google's Terms and Conditions
+- 同意Google的条款及其条件
 {:.li-list .li-terms}
-- Providing government identification
+- 提供政府身份证明
 {:.li-list .li-id}
-- Uploading evidence of the developer's private signing key
+- 上传开发者的私人签名密钥证明
 {:.li-list .li-signing}
-- Listing all current and future application identifiers
+- 列出目前以及将来的应用标识符
 {:.li-list .li-appids}
 
-## What this means for your rights
+## 这对于你的权利来说意味着什么
 
-➤ You, **the consumer**, purchased your Android device believing in Google’s promise that it was an open computing platform and that you could run whatever software you choose on it. Instead, starting next year, they will be non-consensually pushing an update to your operating system that irrevocably blocks this right and leaves you at the mercy of their judgement over what software you are permitted to trust.
+➤ 你，**是消费者**，在购买你的Android设备相信了Google的这是一个开放的系统平台且你可以在其上运行你选择的任何软件的承诺。然而，从明年开始，他们将在未经同意的情况下向你的操作系统推送更新，不可挽回地剥夺了该权利，并让你听从他们对允许信任哪些软件的判断。
+➤ 你，**是创作者**，在没有事先取得Google的批准情况下，不能再开发应用程序并直接与你的亲朋好友和社区分享。Android的承诺————即是它过去常用来将自己与iPhone区分开来的营销优势————一直是“开放的”。但Google显然认为，他们足以对Android生态系统上锁封闭，以及插手干预，他们现在可以以傲慢偏见又不受制裁为由抛弃这一原则。
 
-➤ You, **the creator**, can no longer develop an app and share it directly with your friends, family, and community without first seeking Google’s approval. The promise of Android — and a marketing advantage it has used to distinguish itself against the iPhone — has always been that it is “open”. But Google clearly feels that they have enough of a lock on the Android ecosystem, along with sufficient regulatory capture, that they can now jettison this principle with prejudice and impunity.
+➤ 你，**是国家**, 正在将公民权利和数字主权割让给一家公司，它遵守独裁政权法外要求，可移除完全合法却唯独不称心如意的应用程序。对企业和政府运营的至关重要的软件将任由一家远在天边又触不可及的企业见不得人而又肆意地摆布。
+## 你可以如何出份力
 
-➤ You, **the state**, are ceding the rights of your citizens and your own digital sovereignty to a company with a track record of complying with the extrajudicial demands of authoritarian regimes to remove perfectly legal apps that they happen to dislike. The software that is critical to the running of your businesses and governments will be at the mercy of the opaque whims of a distant and unaccountable corporation.
+### 消费者：联系国家监管机构
+世界各地的监管机构真正关注科技行业的垄断和权力集中，并希望直接听取受影响和担忧的个人意见。直接联系监管机构时，你应该 _礼貌_ 而又 _详尽地_ 说明你所认为这些政策将对消费者和竞争造成的伤害。
 
-## How you can help
-
-### Consumers: Contact national regulators
-
-Regulators worldwide are genuinely concerned about monopolies and the centralization of power in the tech sector, and want to hear directly from individuals who are affected and concerned. When contacting regulators directly, you should be _polite_ and _specific_ about the harm you believe these policies will cause, both to consumers and to competition.
-
-Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region's governing body. Request a _written acknowledgement_ of the complaint, and consider forwarding any responses you receive to [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) so that we might highlight and reference them.
-
+当由该国家或地区的公民撰写投诉，并且电子邮件的语言是用该地区管理机构的官方语言之一编写的时，投诉的影响力尤具份量。索要一份投诉的 _书面确认_，并考虑将您收到的任何回复转发给[victory@keepandroidopen.org](mailto:victory@keepandroidopen.org)，以便我们精选并参考它们。
 #### European Union
-- Email Digital Markets Act team: [EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)
-- Contact DMA team: [https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)
+- 发邮件给《数字市场法》团队：[EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)
+- 联系(DMA)团队：[https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)
 - Send feedback on EU interplay between DMA and GDPR: [Consultation on joint guidelines on the interplay between DMA and GDPR](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en) until December 4.
 - Email Antitrust: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)
 - Complain to the [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)
