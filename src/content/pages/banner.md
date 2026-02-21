@@ -13,6 +13,7 @@ Inserts a full-width banner at the top of the page:
 ```html
 <script src="https://keepandroidopen.org/banner.js"></script>
 ```
+<script src="/banner.js"></script>
 
 ## Query parameters
 
@@ -27,14 +28,6 @@ Customize the banner by appending query parameters to the script URL:
 | `hidebutton` | `on`, `off` | `on` | Show or hide the X close button (dismissed state is remembered per-site via localStorage) |
 
 ## Examples
-
-Basic usage, displays at the top of the page:
-
-```html
-<script src="https://keepandroidopen.org/banner.js"></script>
-```
-
-<script src="/banner.js"></script>
 
 French, mini size, inserted into a specific element:
 
@@ -52,6 +45,10 @@ Link to a custom page, no close button:
 ```html
 <script src="https://keepandroidopen.org/banner.js?link=https://example.com/android&hidebutton=off"></script>
 ```
+
+## Source
+
+The source for the banner can be found at [https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/public/banner.js](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/public/banner.js). Suggestions for improvement are welcome!
 
 <div id="my-banner-custom"></div>
 <script src="/banner.js?link=https://example.com/android&hidebutton=off&size=mini&id=my-banner-custom"></script>
