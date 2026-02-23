@@ -62,14 +62,17 @@
   url: "f-droid.org"
   poc: "board@f-droid.org"
   region: NL
-- organization: "The Free Software Foundation (FSF)"
-  url: "fsf.org"
-  poc: "Greg Farough via RT <campaigns@fsf.org>"
-  region: US
+- organization: "IzzyOnDroid"
+  url: "izzyondroid.org"
+  poc: "Andreas Itzchak Rehberg <izzy@izzyondroid.org>"
 - organization: "The Free Software Foundation Europe (FSFE)"
   url: "fsfe.org"
   poc: "Lucas Lasota <lucas.lasota@fsfe.org>"
   region: DE
+- organization: "The Free Software Foundation (FSF)"
+  url: "fsf.org"
+  poc: "Greg Farough via RT <campaigns@fsf.org>"
+  region: US
 - organization: "Ghostery"
   url: "ghostery.com"
   poc: "Adam from Ghostery <adam@ghostery.com>"
@@ -89,9 +92,6 @@
   url: "osservatorionessuno.org"
   poc: "Giulio B <giulio@osservatorionessuno.org>"
   region: IT
-- organization: "IzzyOnDroid"
-  url: "izzyondroid.org"
-  poc: "Andreas Itzchak Rehberg <izzy@izzyondroid.org>"
 - organization: "Molly"
   url: "molly.im"
   poc: "Oscar Mira <valldrac@molly.im>"
