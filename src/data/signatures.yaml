@@ -10,6 +10,10 @@
   url: "article19.org"
   poc: "Mark Dempsey <mark.dempsey@article19.org>"
   region: GB
+- organization: "Associação Nacional para o Software Livre (ANSOL)"
+  url: "ansol.org"
+  poc: "ANSOL - Direcção <direccao@ansol.org>"
+  region: PT
 - organization: "Aurora Store"
   url: "auroraoss.com"
   poc: "Vishal Bakhai <vishal@auroraoss.com>"
