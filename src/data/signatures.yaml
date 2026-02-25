@@ -93,6 +93,10 @@
 - organization: "IzzyOnDroid"
   url: "izzyondroid.org"
   poc: "Andreas Itzchak Rehberg <izzy@izzyondroid.org>"
+- organization: "KDE"
+  url: "kde.org"
+  poc: "Carl Schwan <carlschwan@kde.org>"
+  region: DE
 - organization: "JMP.chat"
   url: "jmp.chat"
   poc: "Stephen Paul Weber <info@jmp.chat>"
