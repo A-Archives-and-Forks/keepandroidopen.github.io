@@ -101,6 +101,9 @@
   url: "kde.org"
   poc: "Carl Schwan <carlschwan@kde.org>"
   region: DE
+- organization: "microG"
+  url: "microg.org"
+  poc: "Marvin W. <marvin@microg.org>"
 - organization: "Molly"
   url: "molly.im"
   poc: "Oscar Mira <valldrac@molly.im>"
