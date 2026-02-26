@@ -12,7 +12,6 @@ site_disclaimer: "**免責事項:** 本ウェブサイトは、コミュニテ�
 site_privacy: "**プライバシー:** 当サイトは Cookie を使用しておらず、ユーザーの追跡やログの記録も一切行いません。"
 site_copyright: "**著作権:** なし。本作品は次のようにマークされています："
 
-lockdown_banner: "Android は閉鎖的なプラットフォームになろうとしています"
 open_letter_cta: "Android 開発者認証プログラムに反対する私たちの公開書簡をお読みください"
 open_letter_header: "公開書簡"
 open_letter_description: "自由でオープンなプラットフォームとしてのAndroidを支持する公開書簡。"

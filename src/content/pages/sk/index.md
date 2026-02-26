@@ -12,7 +12,6 @@ site_disclaimer: "**Upozornenie:** Táto webová stránka je komunitným nekomer
 site_privacy: "**Súkromie:** Táto stránka nepoužíva žiadne súbory cookie a nevykonáva žiadne sledovanie ani zaznamenávanie používateľov."
 site_copyright: "**Autorské práva:** Žiadne. Toto dielo je označené"
 
-lockdown_banner: "Android sa stane uzamknutou platformou"
 open_letter_cta: "Prečítajte si náš otvorený list proti programu overovania vývojárov systému Android"
 ---
 

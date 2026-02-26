@@ -12,7 +12,6 @@ site_disclaimer: "**Vyloučení odpovědnosti:** Tato stránka je komunitním, n
 site_privacy: "**Soukromí:** Tato stránka nepoužívá žádné cookies a neprovozuje žádné sledování nebo logování uživatelů."
 site_copyright: "**Copyright:** Žádný. Toto dílo je označeno"
 
-lockdown_banner: "Android will become a locked-down platform in"
 open_letter_cta: "Přečtěte si náš otevřený dopis proti programu ověřování vývojářů Androidu"
 ---
 

@@ -12,7 +12,6 @@ site_disclaimer: "**Dichiarazione di non responsabilità:** Questo sito web è u
 site_privacy: "**Privacy:** Questo sito web non utilizza cookie e non effettua alcun tracciamento o registrazione degli utenti."
 site_copyright: "**Diritti d'autore:** Nessuno. Quest'opera è soggetta alla licenza."
 
-lockdown_banner: "Android diventerà una piattaforma bloccata"
 open_letter_cta: "Leggi la nostra lettera aperta contro il programma di verifica degli sviluppatori Android"
 ---
 

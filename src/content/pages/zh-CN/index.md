@@ -12,7 +12,6 @@ site_disclaimer: "**免责声明:** 本站是一个由社区推动的非商业�
 site_privacy: "**隐私:** 本站不使用cookies，以及用户跟踪或记录"
 site_copyright: "**版权:** 公有领域。本网站使用"
 
-lockdown_banner: "安卓将在这段时间后沦为一个封闭平台"
 open_letter_cta: "阅读我们反对安卓开发者验证计划的公开信"
 ---
 

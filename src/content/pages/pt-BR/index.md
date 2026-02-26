@@ -12,7 +12,6 @@ site_disclaimer: "**Atenção:** Este website é uma empreitada comunitária nã
 site_privacy: "**Privacidade:** Este site não utiliza cookies nem faz rastreamento dos usuários ou salva logs de uso."
 site_copyright: "**Copyright:** Nenhum. Esse trabalho é marcado como"
 
-lockdown_banner: "O Android se tornará uma plataforma fechada"
 open_letter_cta: "Leia nossa carta aberta contra o programa de verificação de desenvolvedores Android"
 ---
 

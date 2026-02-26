@@ -12,7 +12,6 @@ site_disclaimer: "**Disclaimer**: Bu site kâr amacı gütmez ve topluluk taraf�
 site_privacy: "**Gizlilik**: Bu site hiçbir çerez kullanmaz ve kullanıcıları takip etmez veya kaydetmez."
 site_copyright: "**Telif Hakkı**: Telif hakkı yoktur. Bu çalışma kamu malıdır:"
 
-lockdown_banner: "Android kısıtlı bir platform haline gelecek."
 open_letter_cta: "Android Geliştirici Doğrulama programına karşı açık mektubumuzu okuyun"
 ---
 

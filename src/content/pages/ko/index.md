@@ -12,7 +12,6 @@ site_disclaimer: "**면책 조항:** 본 사이트는 커뮤니티 주도의 비
 site_privacy: "**개인정보:** 본 사이트는 쿠키 등의 정보 수집 장치, 추적 및 기록 등을 하지 않습니다."
 site_copyright: "**저작권:** 없음. 사이트는 다음 저작권으로 배포됩니다:"
 
-lockdown_banner: "Android가 폐쇄된 플랫폼이 되기까지 남은 시간:"
 open_letter_cta: "Android 개발자 인증 프로그램에 반대하는 공개 서한을 읽어보세요"
 ---
 

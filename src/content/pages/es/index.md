@@ -12,7 +12,6 @@ site_disclaimer: «**Aviso:** Este sitio web es una iniciativa comunitaria sin �
 site_privacy: «**Privacidad:** Este sitio web no utiliza cookies ni realiza ningún tipo de seguimiento o registro de los usuarios».
 site_copyright: «**Derechos de autor:** Ninguno. Esta obra está bajo la licencia».
 
-lockdown_banner: "Android se convertirá en una plataforma cerrada"
 open_letter_cta: "Lea nuestra carta abierta contra el programa de verificación de desarrolladores de Android"
 ---
 

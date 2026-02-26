@@ -12,7 +12,6 @@ site_disclaimer: "**Haftungsausschluss**: Diese Website ist eine gemeinschaftlic
 site_privacy: "**Datenschutz**: Diese Website verwendet keine Cookies und führt weder Tracking noch Nutzerprotokollierung durch."
 site_copyright: "**Urheberrechte**: Keine. Dieses Werk steht unter der Lizenz"
 
-lockdown_banner: "Android wird eine geschlossene Plattform werden."
 open_letter_cta: "Lesen Sie unseren offenen Brief gegen das Android-Entwicklerverifizierungsprogramm"
 ---
 
