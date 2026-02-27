@@ -1,4 +1,3 @@
-
 #- organization: ""
 #  url: ""
 #  poc: ""
@@ -113,7 +112,7 @@
   region: "DE"
 - organization: "LineageOS"
   url: "lineageos.org"
-  poc: "Nolen Johnson <johnsonnolen@gmail.com>"
+  poc: "Nolen Johnson <nolenjohnson@lineageos.org>"
   region: "US"
 - organization: "microG"
   url: "microg.org"
