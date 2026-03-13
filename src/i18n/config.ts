@@ -38,12 +38,14 @@ export const languages = {
   "th": { label: "ไทย", path: "/th/" },
   "id": { label: "Indonesia", path: "/id/" },
   "tl": { label: "Tagalog", path: "/tl/" },
+  "bn": { label: "বাংলা", path: "/bn/" },
 
   // CJK (East Asian)
   "zh-CN": { label: "简体中文", path: "/zh-CN/" },
   "zh-TW": { label: "正體中文", path: "/zh-TW/" },
   "ja": { label: "日本語", path: "/ja/" },
   "ko": { label: "한국어", path: "/ko/" },
+  
 } as const;
 
 export type Locale = keyof typeof languages;
