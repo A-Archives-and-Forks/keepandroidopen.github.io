@@ -472,6 +472,13 @@
   social-bluesky: "https://bsky.app/profile/vivaldi.com"
   social-x: "https://x.com/vivaldibrowser"
   social-linkedin: "https://linkedin.com/company/vivaldi-technologies"
+- organization: "XMPP Standards Foundation"
+  url: "xmpp.org"
+  poc: "Ralph Meijer <ralphm@ik.nu>"
+  region: "https://xmpp.org/"
+  social-mastodon: "https://fosstodon.org/@xmpp"
+  social-bluesky: "https://bsky.app/profile/xmpp-official.bsky.social"
+  social-linkedin: "https://www.linkedin.com/company/xmpp-standards-foundation/"
 
 #- organization: "XXX"
 #  url: "XXX"
