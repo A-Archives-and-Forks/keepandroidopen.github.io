@@ -66,16 +66,12 @@ open_letter_cta: "Przeczytaj nasz list otwarty przeciwko programowi weryfikacji 
 # Meta
 
 # Hero
-# hero_lede: "Your phone is about to stop being yours."
 # [en] hero_lede: "Your phone is about to stop being yours."
 hero_lede: "Twój telefon wkrótce przestanie być twój."
-# hero_countdown_label: "days until lockdown"
 # [en] hero_countdown_label: "days until lockdown"
 hero_countdown_label: "dni do zamknięcia systemu"
-# hero_sub: "Starting September 2026, a silent update, nonconsensually pushed by Google, will **block every Android app** whose developer hasn't registered with Google, signed their contract, paid up, and handed over government ID."
 # [en] hero_sub: "Starting September 2026, a silent update, nonconsensually pushed by Google, will **block every Android app** whose developer hasn't registered with Google, signed their contract, paid up, and handed over government ID."
-hero_sub: "Z początkiem 2027[*](FAQ_URL) roku, cicha aktualizacja wymuszona przez Google bez zgody użytkowników, **zablokuje każdą aplikację na Androida** której twórca nie zarejestrował się w Google, nie podpisał umowy, nie zapłacił i nie przakazał danych z dowodu tożsamości."
-# hero_kicker: "Every app and every device, worldwide, with no opt-out."
+hero_sub: "Z początkiem 2027[*](FAQ_URL) roku, cicha aktualizacja wymuszona przez Google bez zgody użytkowników, **zablokuje każdą aplikację na Androida** której twórca nie zarejestrował się w Google, nie podpisał umowy, nie zapłacił i nie przekazał danych z dowodu tożsamości."
 # [en] hero_kicker: "Every app and every device, worldwide, with no opt-out."
 hero_kicker: "Każda aplikacja i każde urządzenie na całym świecie, bez możliwości rezygnacji."
 
@@ -84,17 +80,17 @@ hero_kicker: "Każda aplikacja i każde urządzenie na całym świecie, bez moż
 what_heading: "Co Google planuje"
 # [en] what_intro: "In August 2025, Google [announced](https://developer.android.com/developer-verification) a new requirement: starting September 2026, **every Android app developer must register centrally with Google** before their software can be installed on any device. Not just Play Store apps: all apps. This includes apps shared between friends, distributed through [F-Droid](https://f-droid.org), built by hobbyists for personal use. Independent developers, church and community groups, and hobbyists alike will all be frozen out of being able to develop and distribute their software."
 what_intro: >-
-  W sierpniu 2025 roku, Google [ogłosiło](https://developer.android.com/developer-verification) nowy wymóg: wraz z początkiem 2027 roku **każdy programista aplikacji na Androida musi się zarejestrować w centralnym systemie Google** zanim jego aplikacja będzie mogła zostać zainstalowana na jakimkolwiek urządzeniu. Dotyczy to *wszystkich* aplikacji, nie tylko tych ze Sklepu Play. Aplikacje udostępniane miedzy przyjaciółmi, dystrybuowane przez F-Droida, stworzone przez hobbystów na użytek prywatny. Niezależni programiści, organizacje kościelne i społeczne, a także hobbyści - wszyscy zostaną pozbawieni możliwości tworzenia i dystrybucji swojego oprogramowania.
+  W sierpniu 2025 roku, Google [ogłosiło](https://developer.android.com/developer-verification) nowy wymóg: wraz z początkiem 2027 roku **każdy programista aplikacji na Androida musi się zarejestrować w centralnym systemie Google** zanim jego aplikacja będzie mogła zostać zainstalowana na jakimkolwiek urządzeniu. Dotyczy to *wszystkich* aplikacji, nie tylko tych ze Sklepu Play. Aplikacji udostępnianych między przyjaciółmi, rozpowszechnianych przez F-Droida, stworzonych przez hobbystów na użytek prywatny. Niezależni programiści, organizacje kościelne i społeczne, a także hobbyści - wszyscy zostaną pozbawieni możliwości tworzenia i dystrybucji swojego oprogramowania.
 # [en] what_registration: "Registration requires:"
 what_registration: "Rejestracja wymaga:"
 # [en] what_req_fee: "Paying a fee to Google"
-what_req_fee: "Uiszczenie opłaty do Google"
+what_req_fee: "Uiszczenia opłaty na rzecz Google"
 # [en] what_req_terms: "Agreeing to Google's Terms and Conditions"
 what_req_terms: "Zgody na warunki korzystania z usług Google"
 # [en] what_req_id: "Surrendering your government-issued identification"
 what_req_id: "Przekazania dokumentu tożsamości wydanego przez państwo"
 # [en] what_req_signing: "Providing evidence of your private signing key"
-what_req_signing: "Przedłożenie dowodu posiadania prywatnego klucza do podpisywania"
+what_req_signing: "Przedłożenia dowodu posiadania prywatnego klucza do podpisywania"
 # [en] what_req_appids: "Listing all current and all future application identifiers"
 what_req_appids: "Wymienienia wszystkich obecnych i przyszłych identyfikatorów aplikacji"
 # [en] what_pullquote: "If a developer does not comply, their apps get silently blocked on every Android device worldwide."
@@ -111,7 +107,7 @@ impact_you_p1: >-
   Telefon z Androidem wybierało się dlatego, że Google twierdziło, że to otwarty system. Można było instalować, co się chciało i taka była umowa.
 # [en] impact_you_p2: "Google is now rewriting that deal, retroactively, on hardware you already own. After the update lands, you can only run software that Google has pre-approved. On your phone: *your* property, that *you* paid for."
 impact_you_p2: >-
-  Google teraz przepisuje tę umowę z mocą wsteczną (retroaktywnie) na każdym urządzeniu, które już posiadasz. Po zainstalowaniu aktualizacji, będzie można uruchomić tylko te aplikacje, które Google uwcześnie zatwierdziło. Na Twoim telefonie: *Twojej* własności, zakupionej przez Ciebie.
+  Google teraz przepisuje tę umowę z mocą wsteczną (retroaktywnie) na każdym urządzeniu, które już posiadasz. Po zainstalowaniu aktualizacji, będzie można uruchomić tylko te aplikacje, które Google uprzednio zatwierdziło. Na Twoim telefonie: *Twojej* własności, zakupionej przez Ciebie.
 # [en] impact_dev_heading: "Independent developers"
 impact_dev_heading: "Niezależnym programistom"
 # [en] impact_dev_p1: "A teenager's first app, a volunteer's privacy tool, or a company's confidential internal beta. It doesn't matter. After September 2026, none of these can be installed without Google's blessing."
@@ -119,7 +115,7 @@ impact_dev_p1: >-
   Pierwsza aplikacja nastolatka, narzędzie do ochrony prywatności stworzone przez wolontariusza, poufna wewnętrzna beta danej firmy - nie ma to żadnego znaczenia. W 2027 roku żadna z nich nie będzie mogła zostać zainstalowana bez błogosławieństwa firmy Google.
 # [en] impact_dev_p2: "[F-Droid](https://f-droid.org), home to thousands of free and open-source Android apps, has called this an [\"existential\" threat](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html). Cory Doctorow calls it [\"Darth Android\"](https://pluralistic.net/2025/09/01/fulu/)."
 impact_dev_p2: >-
-  [F-Droid](https://f-droid.org), dom dla tysiąca darmowych i otwartoźródłowych aplikacji, nazwał to ["egzystencjonalnym" zagrożeniem](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html). Cory Doctorow nazywa to ["Darth Androidem"](https://pluralistic.net/2025/09/01/fulu/).
+  [F-Droid](https://f-droid.org), dom dla tysiąca darmowych i otwartoźródłowych aplikacji, nazwał to ["egzystencjalnym" zagrożeniem](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html). Cory Doctorow nazywa to ["Darth Androidem"](https://pluralistic.net/2025/09/01/fulu/).
 # [en] impact_gov_heading: "Governments & civil society"
 impact_gov_heading: "Rządy i organizacje społeczne"
 # [en] impact_gov_p1: "Google has a [documented track record](https://www.aclu.org/news/free-speech/app-store-oligopoly) of complying when authoritarian regimes demand app removals. With this program, the software that runs your country's institutions will exist at the pleasure of a single unaccountable foreign corporation."
@@ -170,7 +166,7 @@ precedent_p1: >-
   Przyjęta została zasada: **to producent decyduje po zakupie, jakie oprogramowanie możesz uruchomić na urządzeniu.** W świecie oprogramowania, nazywane jest to "rug pull" (dosłownie: wyciąganie spod kogoś dywanu), ale zawsze można było zainstalować konkurencyjne oprogramowanie. W przypadku sprzętu jest to *fakt dokonany*, który pozbawia Cię możliwości wyboru i sprawia, że nie masz wpływu na kaprysy pojedynczego, nieodpowiadającego przed nikim strażnika dostępu i skazanego monopolisty. 
 # [en] precedent_p2: "Android's openness was never just a feature. It was the *promise* that distinguished it from iPhone. Millions chose Android for exactly that reason. Google is now revoking that promise unilaterally, on devices *already* in people's pockets, because they've decided they have enough market dominance and regulatory capture to get away with it."
 precedent_p2: >-
-  Otwartość Androida nigdy nie była tylko cechą. Była *obietnicą*, która odróżniała go od iPhone'a. Miliony wybrały Androida dokładnie z tego powodu. Google teraz jednostronnie wycofuje się z tej obietnicy w odniesieniu do urządzeń, które *już są* w kieszeniach użytkowników, ponieważ uznali, że mają wystarczającą dominację rynkową i wpływ na organy regulacyjne, aby uszło im to na sucho.
+  Otwartość Androida nigdy nie była tylko cechą. Była *obietnicą*, która odróżniała go od iPhone'a. Miliony wybrały Androida dokładnie z tego powodu. Firma Google wycofuje się teraz jednostronnie z tej obietnicy w odniesieniu do urządzeń, które *już są* w kieszeniach użytkowników, ponieważ uznała, że ma wystarczającą dominację rynkową i wpływ na organy regulacyjne, aby uszło jej to na sucho.
 # [en] precedent_arstechnica: "[Ars Technica](https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/): *\"Google's Apple envy threatens to dismantle Android's open legacy.\"*"
 precedent_arstechnica: >-
   [Ars Technica](https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/): *"Zazdrość Google'a wobec Apple'a grozi zniszczeniem tradycji otwartości Androida."*
@@ -182,7 +178,7 @@ objections_heading: "Ale chwila, czy nie..."
 obj_security_q: "\"...chodzi po prostu o bezpieczeństwo?\""
 # [en] obj_security_a: "The security rationale is a smokescreen. Google Play Protect already scans for malware independent of developer identity. Requiring a government ID doesn't make code safer. It makes *developers* identifiable and controllable. Malware authors can register. Indie developers and dissidents often can't. The [EFF](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship) is blunt: identity-based gatekeeping is a censorship tool, not a security one."
 obj_security_a: >-
-  Argumenty dotyczące bezpieczeństwa to tylko przykrywka. Usługa Google Play Protect już teraz skanuje aplikacje w poszukiwaniu złośliwego oprogramowania, niezależnie od tożsamości twórcy. Wymóg posiadania dokumentu tożsamości wydanego przez państwo nie zwiększa bezpieczeństwa kodu. Sprawia, że *programistów* można zidentyfikować i kontrolować. Twórcy złośliwego oprogramowania mogą się zarejestrować. Niezależni programiści i dysydenci często nie mogą. [Oragnizacja EFF](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship) mówi wprost: kontrola dostępu oparta na tożsamości jest narzędziem cenzury, a nie zabezpieczeniem.
+  Argumenty dotyczące bezpieczeństwa to tylko przykrywka. Usługa Google Play Protect już teraz skanuje aplikacje w poszukiwaniu złośliwego oprogramowania, niezależnie od tożsamości twórcy. Wymóg przekazania dokumentu tożsamości wydanego przez państwo nie zwiększa bezpieczeństwa kodu. Sprawia, że można zidentyfikować i kontrolować *programistów*. Twórcy złośliwego oprogramowania mogą się zarejestrować. Niezależni programiści i dysydenci często nie mogą. [Oragnizacja EFF](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship) mówi wprost: kontrola dostępu oparta na tożsamości jest narzędziem cenzury, a nie zabezpieczeniem.
 # [en] obj_sideloading_q: "\"...still sideloading if you use the advanced flow?\""
 obj_sideloading_q: "\"...jest to wciąż instalacja z innego źródła?\""
 # [en] obj_sideloading_a: "Nine steps, 24-hour wait, buried in Developer Options, delivered through a proprietary service that Google can revoke whenever they want. That's not sideloading. That's a **deterrence mechanism** built to ensure almost nobody completes it. And since it runs through Play Services rather than the OS, Google can tighten or kill it silently."
@@ -192,7 +188,7 @@ obj_sideloading_a: >-
 obj_hide_q: "\"...jest to tylko problemem jeśli masz coś do ukrycia?\""
 # [en] obj_hide_a: "Whistleblowers, journalists, and activists under authoritarian governments will be the first victims. People in domestic abuse situations are next. All these groups have legitimate reasons to distribute or use software without putting their legal identity in a Google database. Anonymous open-source contribution is a tradition older than Google itself. This policy ends it on Android."
 obj_hide_a: >-
-  Pierwszymi ofiarami będą sygnaliści, dziennikarze i aktywiści działający w krajach rządzonch przez reżimy autorytarne. Kolejną grupą będą osoby doświadczające przemocy domowej. Wszystkie te grupy mają uzasadnione powody, aby rozpowszechniać lub korzystać z oprogramowania bez przekazywania swojej tożsamości do baz danych Google'a. Anonimowy wkład w rozwój oprogramowania otwartoźródłowego to tradycja starsza niż samo Google. Niniejsza polityka położy jej kres na Androidzie. 
+  Pierwszymi ofiarami będą sygnaliści, dziennikarze i aktywiści działający w krajach rządzonych przez reżimy autorytarne. Kolejną grupą będą osoby doświadczające przemocy domowej. Wszystkie te grupy mają uzasadnione powody, aby rozpowszechniać lub korzystać z oprogramowania bez przekazywania swojej tożsamości do baz danych Google'a. Anonimowy wkład w rozwój oprogramowania otwartoźródłowego to tradycja starsza niż samo Google. Niniejsza polityka położy jej kres na Androidzie.
 # [en] obj_apple_q: "\"...the same thing Apple does?\""
 obj_apple_q: "\"...jest to przypadkiem to samo co robi Apple?\""
 # [en] obj_apple_a: "Apple has been a walled garden from day one. People chose Android *because it was different*. \"Apple does it too\" is a race to the bottom and a weak *tu quoque* argument. And under regulatory pressure (the EU's Digital Markets Act), even Apple is being forced to open up. Google is moving in the opposite direction: attempting to further entrench its gatekeeping status."
@@ -202,7 +198,7 @@ obj_apple_a: >-
 obj_cost_q: "\"...jest to po prostu 25 dolarów i jakaś papierologia?\""
 # [en] obj_cost_a: "Maybe, if you're a developer in the US with a credit card and a driver's license. Try being a student in sub-Saharan Africa, or a dissident in Myanmar, or a volunteer maintaining a community health app. The cost isn't only financial: you're surrendering government ID and evidence of your signing keys to a company that [routinely complies](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) with government demands to remove apps and expose developers."
 obj_cost_a: >-
-  Może jeśli jesteś programistą w Stanach Zjednoczonych z kartą kredytową i prawem jazdy. Spróbuj jednak postawić się w sytuacji studenta z Afryki Subsaharyjskiej, dysydenta z Birmy lub wolontariusza utrzymującego aplikację służącą lokalnej społeczności. Koszt nie jest tylko finansowy: oddajesz rządowy dowód tożsamości i dowody posiadania kluczy podpisujących firmie, która [rutynowo stosuje się](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) do żądań od rządów dotyczących usuwania aplikacji i ujawniania tożsamości programistów.
+  Być może, jeśli jesteś programistą w Stanach Zjednoczonych z kartą kredytową i prawem jazdy. Spróbuj jednak postawić się w sytuacji studenta z Afryki Subsaharyjskiej, dysydenta z Birmy lub wolontariusza utrzymującego aplikację służącą lokalnej społeczności. Koszt nie jest tylko finansowy: oddajesz urzędowy dokument tożsamości i dowody posiadania kluczy podpisujących firmie, która [rutynowo stosuje się](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) do żądań instytucji państwowych dotyczących usuwania aplikacji i ujawniania tożsamości programistów.
 
 # Fight back
 # [en] act_heading: "Fight back"
@@ -436,51 +432,36 @@ social_callout_facebook_10: >-
   Od studentów tworzących swoje pierwsze aplikacje po wolontariuszy opracowujących narzędzia do ochrony prywatności – polityka obowiązkowej rejestracji firmy Google zahamuje innowacje. Pomóż nam zachować otwartość systemu Android! {url}
 
 # Social button labels
-# spread_label_x: "Post on X"
 # [en] spread_label_x: "Post on X"
 spread_label_x: "Udostępnij na X"
-# spread_label_mastodon: "Post on Mastodon"
 # [en] spread_label_mastodon: "Post on Mastodon"
 spread_label_mastodon: "Udostępnij na Mastodon"
-# spread_label_bluesky: "Post on Bluesky"
 # [en] spread_label_bluesky: "Post on Bluesky"
 spread_label_bluesky: "Udostępnij na Bluesky"
-# spread_label_linkedin: "LinkedIn"
 # [en] spread_label_linkedin: "LinkedIn"
 spread_label_linkedin: "LinkedIn"
-# spread_label_facebook: "Facebook"
 # [en] spread_label_facebook: "Facebook"
 spread_label_facebook: "Facebook"
 
 # Footer
-# footer_get_involved: "Get involved"
 # [en] footer_get_involved: "Get involved"
 footer_get_involved: "Zaangażuj się"
-# footer_take_action: "Take action & resources"
 # [en] footer_take_action: "Take action & resources"
 footer_take_action: "Podejmij działanie i skorzystaj z materiałów"
-# footer_open_letter: "Open letter"
 # [en] footer_open_letter: "Open letter"
 footer_open_letter: "List otwarty"
-# footer_add_banner: "Add countdown banner"
 # [en] footer_add_banner: "Add countdown banner"
-footer_add_banner: "Dodaj baner odliczania"
-# footer_sign_petition: "Sign the petition"
+footer_add_banner: "Dodaj baner z odliczaniem"
 # [en] footer_sign_petition: "Sign the petition"
 footer_sign_petition: "Podpisz petycję"
-# footer_contact: "Contact"
 # [en] footer_contact: "Contact"
 footer_contact: "Kontakt"
-# footer_report_issues: "Report site issues"
 # [en] footer_report_issues: "Report site issues"
 footer_report_issues: "Zgłoś problemy ze stroną"
-# footer_translations: "Translations"
 # [en] footer_translations: "Translations"
 footer_translations: "Tłumaczenia"
-# footer_languages: "English (+ 30 languages)"
 # [en] footer_languages: "English (+ 30 languages)"
-footer_languages: "Angielski (+30 języków)"
-# footer_help_translate: "Help translate"
+footer_languages: "Angielski (+ 30 języków)"
 # [en] footer_help_translate: "Help translate"
 footer_help_translate: "Pomóż przetłumaczyć"
 
